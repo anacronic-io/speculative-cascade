@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![JAX](https://img.shields.io/badge/JAX-0.4.26-orange.svg)](https://github.com/google/jax)
-[![TRC Program](https://commons.wikimedia.org/wiki/File:Google_Cloud_logo.svg)](https://sites.research.google/trc/about/)
+[![TRC Program]()](https://sites.research.google/trc/about/)
 
 **Breaking the Memory Hierarchy Bottleneck in Multi-Model LLM Inference**
 
