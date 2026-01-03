@@ -1,0 +1,40 @@
+# Core dependencies
+jax[tpu]==0.4.26
+jaxlib==0.4.26
+flax==0.8.1
+optax==0.1.9
+
+# Model dependencies
+transformers>=4.38.0
+tokenizers>=0.15.0
+huggingface-hub>=0.20.0
+
+# Quantization
+bitsandbytes>=0.42.0
+accelerate>=0.27.0
+
+# Numerical computing
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Utilities
+tqdm>=4.66.0
+pyyaml>=6.0
+h5py>=3.10.0
+
+# Benchmarking
+datasets>=2.16.0
+evaluate>=0.4.1
+wandb>=0.16.0
+
+# Development
+pytest>=7.4.0
+pytest-cov>=4.1.0
+black>=23.12.0
+flake8>=7.0.0
+mypy>=1.8.0
+pre-commit>=3.6.0
+
+# Documentation
+sphinx>=7.2.0
+sphinx-rtd-theme>=2.0.0
